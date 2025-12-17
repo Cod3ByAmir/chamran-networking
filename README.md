@@ -45,7 +45,7 @@ chamran-networking/
    ```
 2. وارد پوشه پروژه شوید:
    ```bash
-   cd network-playground
+   cd chamran-networking
    ```
 3. مستندات پوشه `docs/` را مطالعه کنید و یکی از مثال‌ها را اجرا کنید.
 
